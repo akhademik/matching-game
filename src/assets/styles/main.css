@@ -1,0 +1,16 @@
+/* DEBUG CSS */
+
+.o {
+	outline: 1px dashed red;
+}
+
+.b {
+	background: rgb(0 100 0 0.1);
+}
+
+.ob {
+	outline: 1px dashed red;
+	background: rgb(0 100 0 0.1);
+}
+
+/* DEBUG CSS */
