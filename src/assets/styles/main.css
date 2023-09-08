@@ -1,5 +1,12 @@
-/* DEBUG CSS */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 
+body {
+	@apply bg-slate-700;
+}
+
+/* testing amend */
+
+/* DEBUG CSS */
 .o {
 	outline: 1px dashed red;
 }
@@ -12,5 +19,4 @@
 	outline: 1px dashed red;
 	background: rgb(0 100 0 0.1);
 }
-
 /* DEBUG CSS */
