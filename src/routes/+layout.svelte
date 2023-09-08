@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>My Svelte Project</title>
+	<title>Matching Game</title>
 </svelte:head>
 
 <slot />
