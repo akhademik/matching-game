@@ -10,7 +10,7 @@
 	"pluginSearchDirs": ["."],
 	"plugins": ["prettier-plugin-svelte"],
 	"printWidth": 100,
-	"singleQuote": false,
+	"singleQuote": true,
 	"trailingComma": "none",
 	"useTabs": true
 }

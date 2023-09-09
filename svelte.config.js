@@ -15,6 +15,9 @@ const config = {
 		alias: {
 			'@': './src/'
 		}
+	},
+	vitePlugin: {
+		inspector: true
 	}
 };
 
