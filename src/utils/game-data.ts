@@ -1,11 +1,11 @@
-export interface Level {
+export interface Game {
 	label: string;
 	items: number;
 	duration: number;
 	emojis: string[];
 }
 
-export const game_levels: Level[] = [
+export const GAMES: Game[] = [
 	{
 		label: 'easy',
 		items: 4,
